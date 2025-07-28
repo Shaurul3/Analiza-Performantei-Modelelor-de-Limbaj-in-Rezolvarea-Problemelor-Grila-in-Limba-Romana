@@ -1,0 +1,28 @@
+body {
+  background: lightblue;
+  color: white;
+  font-family: sans-serif;
+  background-image: url("Back1.jpg");
+}
+
+.center {
+  transform: translateX(-50%);
+  margin-left: 50%;
+  text-align: center;
+}
+
+.text-center{
+  margin-top: 35px;
+  color:white;
+  background-color: #0D1B2A;
+  border-radius: 1rem;
+  padding: 10px;
+}
+
+.text{
+  margin-top: 35px;
+  color:white;
+  background-color: #0D1B2A;
+  border-radius: 1rem;
+  padding: 10px;
+}
