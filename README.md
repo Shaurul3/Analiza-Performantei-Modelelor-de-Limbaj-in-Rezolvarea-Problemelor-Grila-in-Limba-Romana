@@ -11,6 +11,7 @@ Crearea setului de date:
 <img width="1343" height="243" alt="image" src="https://github.com/user-attachments/assets/06f0f728-349c-4fca-a1f5-f59bed6c6047" />
 
 Modele analizate:
+
 <img width="373" height="720" alt="image" src="https://github.com/user-attachments/assets/33e81548-a351-4a7c-ab05-255821e0c49b" />
 
 Setul de date si rezultatele obtinute nu o sa le fac publice in momentul de fata.
